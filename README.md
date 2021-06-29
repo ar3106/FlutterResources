@@ -1,4 +1,3 @@
-# this is to be removed
 # Flutter Resources
 
 A list of Free Flutter resources that will help people get started with Flutter.
